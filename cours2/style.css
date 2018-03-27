@@ -1,0 +1,39 @@
+/* style.css */
+body{
+  background: #fff;
+  color: rgba(20,49,145);
+  font-size: 25px;
+  font-family: Arial;
+  font-family: 'Oswald', sans-serif;
+}
+nav{
+	color: rgb(116,208,241);
+}
+h1{
+  font-family: 'Oswald', sans-serif;
+  color: rgba(20,49,145);
+  font-weight: lighter;
+  font-size: 22px;
+}
+#titre{
+	font-size : 50px;
+	color : blue;
+}
+h2 {
+  color: rgb(30,59,155);
+  font-weight: lighter;
+  font-size: 20px;
+}
+p{
+	font-size :15px;
+	font-family:Arial;
+	color : grey;
+}
+a {
+  color: rgb(116,208,241);
+  font-family: Arial;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
