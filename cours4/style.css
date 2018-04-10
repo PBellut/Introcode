@@ -106,10 +106,12 @@ nav ul {
   top:1px;
 }
 #welcome{
-  background-color: #011E2E;
+  background-image: url(https://images7.alphacoders.com/411/thumb-1920-411820.jpg);
   text-align: center;
-  padding: 50px;
+  background-size: cover;
+  padding: 100px;
   color: white;
+  text-shadow: 1px 1px 5px black;
 }
 
 #welcome h4{
