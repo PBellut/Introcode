@@ -78,8 +78,8 @@ a:hover {
 }
 #apropos {
   margin:0 auto;
-  width: 80%;
-  background-color: rgb(233, 235, 238);
+  width: 100%;
+  background-color:#C4DAE6;
   display:flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -124,4 +124,13 @@ nav ul {
   padding: 15px 0;
   text-align: center;
   width: 400px;
+  border-radius: 10px;
+}
+#defis {
+  margin:0 auto;
+  width: 100%;
+  background-color:#C4DAE6;
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
